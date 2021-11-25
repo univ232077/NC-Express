@@ -1,0 +1,50 @@
+[
+    {
+        "productID": 1,
+        "name": "Оперативная память 2 ГБ",
+        "price": 1000,
+        "imageURL": "images/RAM.jpg"
+    },
+    {
+        "productID": 2,
+        "name": "Оперативная память 4 ГБ",
+        "price": 2500,
+        "imageURL": "images/RAM.jpg"
+    },
+    {
+        "productID": 3,
+        "name": "Оперативная память 8 ГБ",
+        "price": 5000,
+        "imageURL": "images/RAM.jpg"
+    },
+    {
+        "productID": 4,
+        "name": "Оперативная память 16 ГБ",
+        "price": 9000,
+        "imageURL": "images/RAM.jpg"
+    },
+    {
+        "productID": 5,
+        "name": "Оперативная память 32 ГБ",
+        "price": 16000,
+        "imageURL": "images/RAM.jpg"
+    },
+    {
+        "productID": 6,
+        "name": "Компьютерный корпус",
+        "price": 4500,
+        "imageURL": "images/PC_Case.png"
+    },
+    {
+        "productID": 7,
+        "name": "Компьютерная мышь Bloody R30",
+        "price": 1300,
+        "imageURL": "images/Bloody_R30.jpg"
+    },
+    {
+        "productID": 8,
+        "name": "Компьютерная мышь",
+        "price": 300,
+        "imageURL": "images/PC_Mouse.jpg"
+    }
+]
